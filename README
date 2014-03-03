@@ -1,0 +1,4 @@
+Instructions:
+
+1) Press a piece (first turn white) and click the new location to move. Invalid moves give a toast message. 
+2) Crown pieces have a different image to show that.
